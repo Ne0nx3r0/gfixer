@@ -1,0 +1,12 @@
+{
+  "name": "g34fixer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "node src/index.js ./test/input/ ./test/output/"
+  },
+  "author": "",
+  "license": "ISC",
+  "type":"module"
+}
